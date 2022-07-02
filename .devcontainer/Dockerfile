@@ -45,6 +45,7 @@ RUN apt-get -y update && \
 		gawk \
 		gcc \
         gcc-multilib \
+        gdb \
 		gcovr \
 		git \
 		git-core \

@@ -9,5 +9,6 @@
     "editor.formatOnType": true,
     "clang-format.language.cpp.fallbackStyle": "",
     "clang-format.language.c.fallbackStyle": "",
-    "clang-format.fallbackStyle": "Microsoft"
+    "clang-format.fallbackStyle": "Microsoft",
+    "cmake.sourceDirectory": "${workspaceFolder}/."
 }
