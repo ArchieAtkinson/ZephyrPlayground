@@ -10,5 +10,7 @@
     "clang-format.language.cpp.fallbackStyle": "",
     "clang-format.language.c.fallbackStyle": "",
     "clang-format.fallbackStyle": "Microsoft",
-    "cmake.sourceDirectory": "${workspaceFolder}/."
+    "cmake.sourceDirectory": "${workspaceFolder}/.",
+    "C_Cpp.autocomplete": "Disabled",
+    "C_Cpp.clang_format_fallbackStyle": "Microsoft"
 }
